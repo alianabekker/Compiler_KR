@@ -1,0 +1,24 @@
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.AssemblyReference.cache
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ_лр1.Properties.Resources.resources
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.GenerateResource.cache
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\bin\Release\ТФЯ лр1.exe.config
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\bin\Release\ТФЯ лр1.exe
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\bin\Release\ТФЯ лр1.pdb
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\bin\Release\FastColoredTextBox.xml
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ_лр1.Compil.resources
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.CopyComplete
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ лр1.exe
+C:\Users\Алина\source\repos\ТФЯ лр1\ТФЯ лр1\obj\Release\ТФЯ лр1.pdb
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\bin\Release\ТФЯ лр1.exe.config
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\bin\Release\ТФЯ лр1.exe
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\bin\Release\ТФЯ лр1.pdb
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\bin\Release\FastColoredTextBox.xml
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.AssemblyReference.cache
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ_лр1.Compil.resources
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ_лр1.Properties.Resources.resources
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.GenerateResource.cache
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ лр1.csproj.CopyComplete
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ лр1.exe
+C:\Users\Алина\Desktop\6 семестр\тфяк\Копия\тфяк\ТФЯ лр1\obj\Release\ТФЯ лр1.pdb
